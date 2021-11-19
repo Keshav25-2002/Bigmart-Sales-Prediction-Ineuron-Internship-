@@ -7,6 +7,10 @@ Primary aim of this project is to build machine learning model that give the sho
 
 [You can reach the application here] https://bigmartsalesprediction.herokuapp.com/
 
+Project video :
+
+https://youtu.be/GmC58m2pskY
+
 
 PROBLEM STATEMENT :
 
